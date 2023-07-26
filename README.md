@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-Sou o Tiago Gasque, estou em transição de carreira para programado full Steck, atualmente estou criando projetos em HTML, CSS e iniciando o aprendizado em JavaScript e React.
+Sou o Tiago Gasque, estou em transição de carreira para programado full Steck, atualmente estou criando projetos Com:
+- HTML
+- CSS
+- Iniciando o aprendizado em JavaScript e React.
 
 <!--
 **tgasque/tgasque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
